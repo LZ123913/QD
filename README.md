@@ -117,5 +117,4 @@ npm run preview    # 本地预览构建产物
 
 ## 项目仓库
 
-- Gitee: (待上传后填写)
-- GitHub: (待上传后填写)
+- GitHub: https://github.com/LZ123913/QD
